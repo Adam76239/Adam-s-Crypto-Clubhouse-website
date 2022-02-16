@@ -22,9 +22,8 @@ header{
     border-radius:3px;
 }
 #headerText{
-    position:absolute;
+    display: inline;
     text-align:center;
-    padding-left:10px;
     font-size:50px;
     line-height:0px;
 }
